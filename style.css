@@ -1,0 +1,50 @@
+.jumbotron {
+    background: url("img/bg-3.jpg") no-repeat 0 center;
+    background-size: cover;
+}
+
+@media (min-width: 992px) {
+    .jumbotron {
+        padding: 7rem 2rem;
+    }
+}
+
+.container {
+    text-align: center;
+}
+.material-icons {
+    color: green;
+    font-size: 50px;
+
+}
+.material-icons1 {
+    color: red;
+    font-size: 35px;
+
+}
+.carousel-inner {
+ width: 1100px;
+ height: 500px;
+
+}
+.section-title {
+    text-align: center;
+    color:lightgreen;
+}
+
+.container1 {
+    text-align: center;
+    padding: 10px;
+}
+.separator {
+    display: block;
+    width: 70px;
+    height: 1px;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.gray-bg {
+    background-color:gainsboro;
+
+}
